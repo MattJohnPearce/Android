@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QLifeBalance</string>
+    <string name="opening_text">The purpose of life is to be at one with the universe.</string>
+    <string name="action_settings">Settings</string>
+    <string name="life_image">Life Image</string>
+    <string name="scales">Scales</string>
+
+</resources>

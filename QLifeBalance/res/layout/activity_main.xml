@@ -1,0 +1,45 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.mjp.qlifebalance.MainActivity" >
+
+    <ImageView
+        android:id="@+id/lifeImage"
+        android:layout_width="@dimen/life_image_width"
+        android:layout_height="@dimen/life_image_hieght"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:scaleType="fitXY"
+        android:contentDescription="@string/life_image"
+        android:src="@drawable/work_life_balance" />
+
+    <TextView
+        android:id="@+id/txtQuotes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/lifeImage"
+        android:text="@string/opening_text"
+        android:textSize="@dimen/text_size" />
+
+    <SeekBar
+        android:id="@+id/seekBar1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:max="6" />
+
+    <ImageView
+        android:id="@+id/scaleImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/seekBar1"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/scales"
+        android:src="@drawable/scales3" />
+
+</RelativeLayout>
