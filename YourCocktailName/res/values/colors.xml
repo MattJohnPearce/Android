@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <color name="text_color">#FFFFFF</color>
+        
+        <color name="background_1">#FF0000</color>
+        <color name="text_color_1">#00FFFF</color>  
+            
+        <color name="background_2">#FF7700</color>
+        <color name="text_color_2">#0077FF</color>
+        
+        <color name="background_3">#FFFF00</color>
+        <color name="text_color_3">#0000FF</color>
+        
+        <color name="background_4">#77FF00</color>
+        <color name="text_color_4">#7700FF</color>
+        
+        <color name="background_5">#00FF00</color>
+        <color name="text_color_5">#FF00FF</color>
+        
+        <color name="background_6">#00FF77</color>
+        <color name="text_color_6">#FF0077</color>
+        
+        <color name="background_7">#00FFFF</color>
+        <color name="text_color_7">#FF0000</color>
+        
+        <color name="background_8">#0077FF</color>
+        <color name="text_color_8">#FF7700</color>
+        
+        <color name="background_9">#0000FF</color>
+        <color name="text_color_9">#FFFF00</color>
+        
+        <color name="background_10">#7700FF</color>
+        <color name="text_color_10">#77FF00</color>
+             
+        <color name="background_11">#FF00FF</color>
+        <color name="text_color_11">#00FF00</color>
+        
+        <color name="background_12">#FF0077</color>
+        <color name="text_color_12">#00FF77</color>
+    </resources>

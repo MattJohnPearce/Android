@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="months_ingred">
+        <item>Vodka</item>
+        <item>Gin</item>
+        <item>Scotch</item>
+        <item>Bourbon</item>
+        <item>Baijiu</item>
+        <item>Brandy</item>
+        <item>Cognac</item>
+        <item>Rum</item>
+        <item>Tequila</item>
+        <item>Honey Liqueur</item>
+        <item>Moon Shine</item>
+        <item>Absinthe</item>
+    </string-array>
+	<string-array name="letter_ingred">
+        <item>Blood Orange</item>
+        <item>Blueberry</item>
+        <item>Cranberry</item>
+        <item>Grapefruit</item>
+        <item>Apple</item>
+        <item>Pineapple</item>
+        <item>Orange</item>
+        <item>Peach</item>
+        <item>Grape</item>
+        <item>Lemon</item>
+        <item>Cherry</item>
+        <item>Passion Fruit</item>
+        <item>Watermelon</item>
+        <item>Promengate</item>
+        <item>Strawberry</item>
+        <item>Olive</item>
+        <item>Pear</item>
+        <item>Banana</item>
+        <item>Celery</item>
+        <item>Chocolate</item>
+        <item>Apricot</item>
+        <item>Tomato</item>
+        <item>Lettuce</item>
+        <item>Pumpkin</item>
+        <item>Eye Balls</item>
+        <item>Potato</item>
+        </string-array>
+</resources>
